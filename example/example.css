@@ -1,0 +1,9 @@
+div#animated-thumbnails {
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+}
+div#animated-thumbnails img{
+    max-width: 100%;
+    height: auto;
+}
